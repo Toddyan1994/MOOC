@@ -52,4 +52,3 @@ def lazy_encrypt(str1,str2,dic):
 
 lazy_encrypt("anOutputFile.txt", "anInputFile.txt", {"e": "o", "o": "a"})
 print("Done running! Check anOutputFile.txt for the result.")
-
