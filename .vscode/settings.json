@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "D:\\edu\\Anaconda\\python.exe",
+    "python.sortImports.path": "D:\\edu\\Anaconda\\Scripts",
+    "python.formatting.provider": "autopep8"
+}
