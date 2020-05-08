@@ -13,3 +13,4 @@ with open(r'windproject\IO\txtfile\poem1.txt','w', encoding='utf-8') as new:
 
 # 请你根据学到的新知识，在下面完成对文档“poem1.txt”的修改。
 # 你可以处理命名为“poem1”的文档，参考代码会处理“poem1.txt”。
+
